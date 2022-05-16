@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2091756694/Hungtd1Traning.iml" filepath="$PROJECT_DIR$/.idea/modules/2091756694/Hungtd1Traning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hungtd1Traning.app.iml" filepath="$PROJECT_DIR$/.idea/modules/Hungtd1Traning.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hungtd1Traning.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Hungtd1Traning.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hungtd1Traning.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hungtd1Traning.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hungtd1Traning.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Hungtd1Traning.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

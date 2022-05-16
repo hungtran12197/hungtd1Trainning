@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "873806792265",
+    "project_id": "hungtd1trainning",
+    "storage_bucket": "hungtd1trainning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873806792265:android:8f4e19c73ecd1ef0722198",
+        "android_client_info": {
+          "package_name": "com.vnpay.hungtd1traning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873806792265-jev7dt0f560v43f7uh1bj1895cdv7er3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vnpay.hungtd1traning",
+            "certificate_hash": "390349f98ac30bc482d92844e72b6a8f54e08b9c"
+          }
+        },
+        {
+          "client_id": "873806792265-43nmboh2avui23rn7vpe63mshqi88bfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0NbZd6rgRKFwefpAbi-s3J412kfkeTsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873806792265-43nmboh2avui23rn7vpe63mshqi88bfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
